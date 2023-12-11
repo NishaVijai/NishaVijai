@@ -2,7 +2,7 @@
 ## I am a front-end web developer
 I love coding and keen on building inclusive web design.
 
-### Skills: VUE JS / REACT / Blazor / JS / TS / HTML / CSS / SCSS
+**Skills**: VUE JS / REACT / Blazor / JS / TS / HTML / CSS / SCSS
 
 - 🌱 I’m currently learning Figma.
 
