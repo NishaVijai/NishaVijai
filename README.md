@@ -1,10 +1,9 @@
 # Noorunnisha Thamizuddin
-## I am a front-end web developer
-I love coding and keen on building inclusive web design.
+## Front-end web developer. Love coding and keen on building inclusive web design.
 
 **Skills**: VUE JS / REACT / Blazor / JS / TS / HTML / CSS / SCSS
 
-- 🌱 I’m currently learning Figma.
+- 🌱 Working on MERN projects and Software Testing.
 
 ![NishaVijai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishavijai&show_icons=true&theme=transparent)
 
