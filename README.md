@@ -1,5 +1,5 @@
 # Noorunnisha Thamizuddin
-## Front-end web developer. Love coding and keen on building inclusive web design.
+## Front-end / Full-stack Web Developer building responsive, accessible web & mobile applications. React, TypeScript, JavaScript, C#, Firebase — focused on scalable components and production-ready UI.
 
 **Skills**: VUE JS / REACT / Blazor / JS / TS / HTML / CSS / SCSS
 
